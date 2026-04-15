@@ -1,2 +1,36 @@
-# major-project-ID--BT3043-Skin-Cancer-Detection-Using-Deep-Learning
-Skin cancer is one of the most dangerous and rapidly  growing diseases worldwide. Early detection is critical to  improving survival rates and reducing treatment costs.  This research proposes a deep learning-based system  using Convolutional Neural Networks (CNN) for  automatic classification of skin cancer from dermoscopic  images. 
+# Skin Cancer Detection
+
+
+## Running
+
+1. Create a virtual environment
+
+    ```bash
+    python3 -m venv venv
+    ```
+
+1. Activate the virtual environment
+
+    for Linux and Mac:
+
+    ```bash
+    source venv/bin/activate
+    ```
+
+    for Windows:
+
+    ```bash
+    venv\Scripts\activate
+    ```
+
+1. Install dependencies
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+1. Run the app
+
+    ```bash
+    streamlit run ./About.py
+    ```
