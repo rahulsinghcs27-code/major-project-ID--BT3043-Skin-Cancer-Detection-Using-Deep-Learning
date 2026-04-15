@@ -1,0 +1,2 @@
+# major-project-ID--BT3043-Skin-Cancer-Detection-Using-Deep-Learning
+Skin cancer is one of the most dangerous and rapidly  growing diseases worldwide. Early detection is critical to  improving survival rates and reducing treatment costs.  This research proposes a deep learning-based system  using Convolutional Neural Networks (CNN) for  automatic classification of skin cancer from dermoscopic  images. 
